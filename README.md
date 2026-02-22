@@ -1,1 +1,1 @@
-# qx-rules
+# Quantumult-rules
